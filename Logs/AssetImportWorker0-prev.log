@@ -1,0 +1,437 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.5f1 (e2c53f129de5) revision 14861631'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19044.1415; Version 2009; 64bit' Language: 'en' Physical Memory: 16275 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Perceptron/Documents/GitHub/2DHealthBar
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61232
+Successfully changed project path to: C:/Users/Perceptron/Documents/GitHub/2DHealthBar
+C:/Users/Perceptron/Documents/GitHub/2DHealthBar
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 52.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.5f1 (e2c53f129de5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Perceptron/Documents/GitHub/2DHealthBar/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   30.0.14.9709
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56400
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002138 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 38.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.918 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000992 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 40.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.109 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 1.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1799 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.4 MB.
+System memory in use after: 84.4 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2240.
+Total: 2.539000 ms (FindLiveObjects: 0.330900 ms CreateObjectMapping: 0.122600 ms MarkObjects: 1.948900 ms  DeleteObjects: 0.134900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Beautiful Progress Bar Free - CYKO/Scenes/DemoScene.unity
+  artifactKey: Guid(aabcaaf9ba8283142ae1470a34700cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/Scenes/DemoScene.unity using Guid(aabcaaf9ba8283142ae1470a34700cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e017fd7852e938b01a6b465527db4ec') in 0.014698 seconds
+  Import took 0.017804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.657273 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 12.png
+  artifactKey: Guid(269491d773faa4b78aa9c1d4c6a1a897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 12.png using Guid(269491d773faa4b78aa9c1d4c6a1a897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72b0a84b74e0b67254813a6909eec0c2') in 0.127895 seconds
+  Import took 0.131289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 22.png
+  artifactKey: Guid(11b5063e11cde4680a094a9bbca13383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 22.png using Guid(11b5063e11cde4680a094a9bbca13383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd17944be16480bf7e9d0a8df88e4e333') in 0.013221 seconds
+  Import took 0.016648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 36.png
+  artifactKey: Guid(4567951899c584cf3ab8802d30151419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 36.png using Guid(4567951899c584cf3ab8802d30151419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f301c3cf4ab785d36dfcbf7f949c42e') in 0.013091 seconds
+  Import took 0.017843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 44.png
+  artifactKey: Guid(80a171cbfd68547d5a2e2883e8e4298a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 44.png using Guid(80a171cbfd68547d5a2e2883e8e4298a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5c1b77a4893c6762ca9e6130ddcc910') in 0.013171 seconds
+  Import took 0.017024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 43.png
+  artifactKey: Guid(2fa92686878964789b9db224a1d07ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 43.png using Guid(2fa92686878964789b9db224a1d07ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a51597397f6c096e86ae3bbf534e9eed') in 0.009601 seconds
+  Import took 0.013848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 46.png
+  artifactKey: Guid(fc1d707607d8245fea78c6010b642e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 46.png using Guid(fc1d707607d8245fea78c6010b642e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c87bc2f1c4105fa83c6825362c6df57') in 0.008002 seconds
+  Import took 0.013846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 33.png
+  artifactKey: Guid(cc0b4b8834ee549f49b374ca8c5d7f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 33.png using Guid(cc0b4b8834ee549f49b374ca8c5d7f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbcbea6170d5d70ea93a8a7f5026da6e') in 0.008933 seconds
+  Import took 0.012136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 27.png
+  artifactKey: Guid(1ba37af43c4904ef19390e750cd57dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 27.png using Guid(1ba37af43c4904ef19390e750cd57dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cb2c2a4b2c4b85966f1f99914cb145f') in 0.010097 seconds
+  Import took 0.016155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 24.png
+  artifactKey: Guid(10725fadd69e24802bd736ccc64a1f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 24.png using Guid(10725fadd69e24802bd736ccc64a1f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0af199f7c4fa38e637f72f03f06ab88c') in 0.011073 seconds
+  Import took 0.016359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 41.png
+  artifactKey: Guid(54166cd4ebe844d89a6fbe1048dde221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 41.png using Guid(54166cd4ebe844d89a6fbe1048dde221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eb611fbc721dcfcdc6e36b6e84aca9a') in 0.009104 seconds
+  Import took 0.016336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 51.png
+  artifactKey: Guid(a228e86e21dff472bb174d51ea9a25ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 51.png using Guid(a228e86e21dff472bb174d51ea9a25ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a06044be93cdfc165bf099bdacd712a3') in 0.009216 seconds
+  Import took 0.014689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 16.png
+  artifactKey: Guid(bbe9a3f4ac90044af84ac836bcb9b802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 16.png using Guid(bbe9a3f4ac90044af84ac836bcb9b802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76915a0867cedc72471d6347e0997220') in 0.012281 seconds
+  Import took 0.016347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 14.png
+  artifactKey: Guid(bd822fe2366ff4c479740a6ea6329a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 14.png using Guid(bd822fe2366ff4c479740a6ea6329a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e9db607c0e6daa0b1bbfecf9aaf920a') in 0.009778 seconds
+  Import took 0.016214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 35.png
+  artifactKey: Guid(991591899a349418aa5296494a8ff3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 35.png using Guid(991591899a349418aa5296494a8ff3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd82c2fc0ee189ab72c82b05dfb6083f6') in 0.010805 seconds
+  Import took 0.015444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 32.png
+  artifactKey: Guid(ed36bd247342749da865b1fab6cd2650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 32.png using Guid(ed36bd247342749da865b1fab6cd2650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85920237589001928c853621c295d9d5') in 0.012860 seconds
+  Import took 0.016500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 26.png
+  artifactKey: Guid(9ccc3770b652045d28b4e270fe7f1063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 26.png using Guid(9ccc3770b652045d28b4e270fe7f1063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e6ebf4221b53ed381de03e791f9067b') in 0.012930 seconds
+  Import took 0.016759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 31.png
+  artifactKey: Guid(ba339f00c0b6d4d8d9dd8f5304ea9eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 31.png using Guid(ba339f00c0b6d4d8d9dd8f5304ea9eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09dfb2579e2d4abd78ce9885723a3443') in 0.012781 seconds
+  Import took 0.017109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 45.png
+  artifactKey: Guid(8f4461725bff34943aff06332c177415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 45.png using Guid(8f4461725bff34943aff06332c177415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3855933141052f904723aaa8b02bdcb9') in 0.012798 seconds
+  Import took 0.018722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000500 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 28.png
+  artifactKey: Guid(d805bfdd935b34ca282b122c888030d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 28.png using Guid(d805bfdd935b34ca282b122c888030d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2ccde1683565143fb8e2e58d79a6c87') in 0.009681 seconds
+  Import took 0.014758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 52.png
+  artifactKey: Guid(e956bfda45a1e407795ec4fbf7efe07b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 52.png using Guid(e956bfda45a1e407795ec4fbf7efe07b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef7a6959baf404fe191b4f4bdd8d62d') in 0.009628 seconds
+  Import took 0.014500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 50.png
+  artifactKey: Guid(2cf8a98f9c05b47df8819a7cb9acf209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 50.png using Guid(2cf8a98f9c05b47df8819a7cb9acf209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d7cf16b86b4e51dc313c983d64afab1') in 0.011607 seconds
+  Import took 0.016167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 20.png
+  artifactKey: Guid(9a7c20816c5ab45cc9d51d2c91e69fd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 20.png using Guid(9a7c20816c5ab45cc9d51d2c91e69fd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a936e5a5d3f065d014b73cf6eb016079') in 0.010383 seconds
+  Import took 0.015188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 17.png
+  artifactKey: Guid(5f8d6c803befb44bc89c118436018629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 17.png using Guid(5f8d6c803befb44bc89c118436018629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2880157d671a4de9ba184531e991b9ba') in 0.009496 seconds
+  Import took 0.012630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 23.png
+  artifactKey: Guid(b47fd4db63bf94c06b15f3f388675144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 23.png using Guid(b47fd4db63bf94c06b15f3f388675144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '182631026cfc4f79dc584e36d52d74bc') in 0.012593 seconds
+  Import took 0.017385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 18.png
+  artifactKey: Guid(47c23340812b24864af395feca4c3a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 18.png using Guid(47c23340812b24864af395feca4c3a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd662419dd1dfa7ee5586ebe5a4e58aab') in 0.011518 seconds
+  Import took 0.015210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 42.png
+  artifactKey: Guid(b2e758a1418924497983686386e18670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 42.png using Guid(b2e758a1418924497983686386e18670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c26470a205b6f58f563bae13ddaf3f3') in 0.012485 seconds
+  Import took 0.015938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 39.png
+  artifactKey: Guid(c745f69017b304c8b8730142416138bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 39.png using Guid(c745f69017b304c8b8730142416138bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'badbece500f3d372e0d49b16a548bde1') in 0.012362 seconds
+  Import took 0.015655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 34.png
+  artifactKey: Guid(7a84da28438df4023bffb3c96d3ebe5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 34.png using Guid(7a84da28438df4023bffb3c96d3ebe5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5ca3d3f4dc6530f38e499bd944a69a0') in 0.013210 seconds
+  Import took 0.016591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 25.png
+  artifactKey: Guid(4eb181a1475ba4975a040865b40948c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 25.png using Guid(4eb181a1475ba4975a040865b40948c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '799e2929fe50bfe9dc5a1e30cdbadb3d') in 0.010715 seconds
+  Import took 0.014070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 29.png
+  artifactKey: Guid(07221909247fa4eb09dcc45e6316a8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 29.png using Guid(07221909247fa4eb09dcc45e6316a8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08a0558af68cae06024069db9fe9a484') in 0.010520 seconds
+  Import took 0.015047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 47.png
+  artifactKey: Guid(9c6f9d49fa3ba4c60b5e69dc9a1a244d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 47.png using Guid(9c6f9d49fa3ba4c60b5e69dc9a1a244d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac1a8fb97fb18f4b19f9e289c24712e7') in 0.008193 seconds
+  Import took 0.013722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000568 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 13.png
+  artifactKey: Guid(366ae973f8f1141efac97c6186c6bff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 13.png using Guid(366ae973f8f1141efac97c6186c6bff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '845b6c64a11e6d343dc165847d66ce24') in 0.009255 seconds
+  Import took 0.014085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 53.png
+  artifactKey: Guid(e6d4faad96fb94361b6ae09490fd01f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 53.png using Guid(e6d4faad96fb94361b6ae09490fd01f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4aa71c56fea1a5cc9d294a6a5bb570b') in 0.008556 seconds
+  Import took 0.014211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 15.png
+  artifactKey: Guid(c1d124fb86fcc4ab68a16d67cf980633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 15.png using Guid(c1d124fb86fcc4ab68a16d67cf980633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '521041cec5c7b18063bba5458b8fd4da') in 0.009561 seconds
+  Import took 0.017893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 40.png
+  artifactKey: Guid(1908c45859d4044cc95a4a8dee62d532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 40.png using Guid(1908c45859d4044cc95a4a8dee62d532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba1cecefb967de166deb6042835cbbf7') in 0.008766 seconds
+  Import took 0.013627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 30.png
+  artifactKey: Guid(264504b4239034938bc38bf33b3bde94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 30.png using Guid(264504b4239034938bc38bf33b3bde94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeffc95d4bbd6e3f80c76c7ce4cc2802') in 0.009758 seconds
+  Import took 0.015644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 21.png
+  artifactKey: Guid(b0dfaa4151f07448e8a666cb8109f323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 21.png using Guid(b0dfaa4151f07448e8a666cb8109f323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38f4f47770ea1a086e910a8c22344167') in 0.011932 seconds
+  Import took 0.019492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000611 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 48.png
+  artifactKey: Guid(eeea7cc2ad5aa4700bccaf811790a8bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 48.png using Guid(eeea7cc2ad5aa4700bccaf811790a8bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b9fdbb47b25cdb838701201568c2445') in 0.008531 seconds
+  Import took 0.012668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 37.png
+  artifactKey: Guid(81729a213ccce424b8310109ddf1c54f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 37.png using Guid(81729a213ccce424b8310109ddf1c54f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6d80ca37faca58b700b7f3415163032') in 0.010778 seconds
+  Import took 0.015819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 19.png
+  artifactKey: Guid(621bab10a94aa402db2ed03ef602338e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 19.png using Guid(621bab10a94aa402db2ed03ef602338e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e29bd09356de3e622e46067ad2060569') in 0.010739 seconds
+  Import took 0.015165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 49.png
+  artifactKey: Guid(c9df77896e4114340969950f5407c7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Beautiful Progress Bar Free - CYKO/PROGRESS UI/bgArtboard 49.png using Guid(c9df77896e4114340969950f5407c7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec15548902ea3ea72d094a725782090f') in 0.012362 seconds
+  Import took 0.016261 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002794 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.023 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.5 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2253.
+Total: 2.208800 ms (FindLiveObjects: 0.207300 ms CreateObjectMapping: 0.056800 ms MarkObjects: 1.829100 ms  DeleteObjects: 0.114300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
